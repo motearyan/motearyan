@@ -1,7 +1,7 @@
 <!-- Main GIF Banner -->
 <!-- Main GIF Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/motearyan/motearyan/main/assets/ai-banner.gif" alt="AI Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/motearyan/motearyan/main/assets/banner.gif" alt="AI Banner" width="100%" />
 </p>
 <!-- Typing Intro Banner -->
 <p align="center">
