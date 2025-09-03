@@ -1,8 +1,8 @@
 <!-- Main GIF Banner -->
+<!-- Main GIF Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/zrC6TjV/ai-banner.gif" alt="AI Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/motearyan/motearyan/main/assets/ai-banner.gif" alt="AI Banner" width="100%" />
 </p>
-
 <!-- Typing Intro Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Aryan+Mote;B.Tech+in+Electrical+Engineering;IIT+Dharwad;AI+%7C+ML+%7C+Data+Analytics;Engineer+%7C+Innovator+%7C+Problem+Solver" alt="Typing SVG" />
