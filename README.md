@@ -14,7 +14,7 @@
 - 🎓 **B.Tech in Electrical Engineering** @ *Indian Institute of Technology, Dharwad*  
 - 💡 Passionate about **AI/ML, Neural Networks, and Data Analytics**  
 - 🚀 Projects in **Computer Vision, Deep Learning, and Data Engineering**  
-- 🚀 Experienced in building projects in **Computer Vision, Deep Learning, and Data Engineering**  
+- ⚡ Experienced in building projects in **Computer Vision, Deep Learning, and Data Engineering**  
 - 🔍 Interested in **model optimization, real-time intelligent systems, and applied research**  
 - 🌱 Currently learning **advanced model optimization & real-time systems**  
 
