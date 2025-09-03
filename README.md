@@ -27,10 +27,10 @@ My focus is on building **intelligent systems** in **AI, Machine Learning, and N
 
 <p align="center">
   <a href="https://github.com/aryan-mote/TinyYOLO-Crime-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=TinyYOLO-Crime-Detection&theme=tokyonight&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryan-mote&repo=TinyYOLO-Crime-Detection&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
   <a href="https://github.com/aryan-mote/Flood-Detection-SAR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=Flood-Detection-SAR&theme=tokyonight&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryan-mote&repo=Flood-Detection-SAR&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
 </p>
 
@@ -43,12 +43,12 @@ My focus is on building **intelligent systems** in **AI, Machine Learning, and N
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-mote&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mote&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryan-mote&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
+  <img src="https://streak-stats.demolab.com?user=aryan-mote&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-mote&theme=react-dark&bg_color=0d1117&color=6A5ACD&line=00CED1&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-mote&theme=tokyo-night&bg_color=0d1117&color=6A5ACD&line=00CED1&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
