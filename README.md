@@ -1,24 +1,24 @@
-<!-- Animated Banner -->
+<!-- Banner / Typing Intro -->
 <p align="center">
-  <img src="https://i.ibb.co/zrC6TjV/ai-banner.gif" alt="AI Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Aryan+Mote;B.Tech+in+Electrical+Engineering;IIT+Dharwad;AI+%7C+ML+%7C+Data+Analytics;Engineer+%7C+Innovator+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#6A5ACD">Aryan Mote</span></h1>
-<h3 align="center">AI/ML Researcher | Neural Networks Explorer | Data Enthusiast</h3>
 
 ---
 
-## 🧠 About Me  
+## 👨‍🎓 About Me  
 
-I’m like a **neuron in a giant neural net** — learning from every dataset, adapting through every gradient, and striving to strengthen connections that matter.  
-My focus is on building **intelligent systems** in **AI, Machine Learning, and Neural Networks** that can **see, think, and act**.  
+- 🎓 **B.Tech in Electrical Engineering** @ *Indian Institute of Technology, Dharwad*  
+- 💡 Passionate about **AI/ML, Neural Networks, and Data Analytics**  
+- 🚀 Projects in **Computer Vision, Deep Learning, and Data Engineering**  
+- ✈️ Exploring **Aviation** and preparing for **UPSC Civil Services**  
+- 🌱 Currently learning **advanced model optimization & real-time systems**  
 
 ---
 
 ## ⚡ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,tensorflow,pytorch,sklearn,keras,git,github,linux,mysql,aws,gcp,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,keras,r,mysql,git,github,linux,aws,gcp,azure,html,css,js,react&theme=dark" />
 </p>
 
 ---
@@ -27,10 +27,19 @@ My focus is on building **intelligent systems** in **AI, Machine Learning, and N
 
 <p align="center">
   <a href="https://github.com/aryan-mote/TinyYOLO-Crime-Detection">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryan-mote&repo=TinyYOLO-Crime-Detection&theme=tokyonight&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=TinyYOLO-Crime-Detection&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
   <a href="https://github.com/aryan-mote/Flood-Detection-SAR">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryan-mote&repo=Flood-Detection-SAR&theme=tokyonight&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=Flood-Detection-SAR&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aryan-mote/BLDC-Motor-Controller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=BLDC-Motor-Controller&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/aryan-mote/LipNet-Video2Text">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=LipNet-Video2Text&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
 </p>
 
@@ -43,12 +52,12 @@ My focus is on building **intelligent systems** in **AI, Machine Learning, and N
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryan-mote&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
-  <img src="https://streak-stats.demolab.com?user=aryan-mote&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-mote&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mote&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-mote&theme=tokyo-night&bg_color=0d1117&color=6A5ACD&line=00CED1&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan-mote&theme=react-dark&bg_color=0d1117&color=6A5ACD&line=00CED1&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
