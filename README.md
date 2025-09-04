@@ -40,6 +40,9 @@
   <a href="https://github.com/motearyan/Lip-Reading-for-Speech-to-Text-Conversion">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Lip-Reading-for-Speech-to-Text-Conversion&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
+   <a href="https://github.com/motearyan/Databricks-End-to-End-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Databricks-End-to-End-Project&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
 </p>
 
 <p align="center">
