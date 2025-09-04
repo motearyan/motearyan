@@ -43,8 +43,8 @@
   <a href="https://github.com/aryan-mote/BLDC-Motor-Controller">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=BLDC-Motor-Controller&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
-  <a href="https://github.com/aryan-mote/LipNet-Video2Text">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=LipNet-Video2Text&theme=tokyonight&hide_border=true&border_radius=15" />
+  <a href="https://github.com/motearyan/Lip-Reading-for-Speech-to-Text-Conversion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Lip-Reading-for-Speech-to-Text-Conversion&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
 </p>
 
