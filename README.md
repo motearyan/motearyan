@@ -49,18 +49,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motearyan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motearyan&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=motaryan&theme=react-dark&bg_color=0d1117&color=6A5ACD&line=00CED1&point=FFFFFF&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Connect with Me  
 
