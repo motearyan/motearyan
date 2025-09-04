@@ -1,11 +1,10 @@
 <!-- Main GIF Banner -->
-<!-- Main GIF Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/motearyan/motearyan/main/assets/image1.png" 
        alt="AI Banner" 
-       width="100%" 
-       style="max-height:300px; object-fit:contain;" />
+       style="width:80%; height:auto; max-height:300px; object-fit:contain;" />
 </p>
+
 
 <!-- Typing Intro Banner -->
 <p align="center">
