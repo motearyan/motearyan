@@ -31,18 +31,13 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/vi14m/Thermal-Image-Super-Resolution">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Thermal-Image-Super-Resolution&hide_border=true&border_radius=15" />
+  <a href="https://github.com/motearyan/Thermal-Image-Super-Resolution">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Thermal-Image-Super-Resolution&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
-  <a href="https://github.com/aryan-mote/Flood-Detection-SAR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=Flood-Detection-SAR&theme=tokyonight&hide_border=true&border_radius=15" />
+  <a href="https://github.com/motearyan/Flood_detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Flood-detection&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/aryan-mote/BLDC-Motor-Controller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=BLDC-Motor-Controller&theme=tokyonight&hide_border=true&border_radius=15" />
-  </a>
   <a href="https://github.com/motearyan/Lip-Reading-for-Speech-to-Text-Conversion">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Lip-Reading-for-Speech-to-Text-Conversion&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
