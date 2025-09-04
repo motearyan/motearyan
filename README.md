@@ -31,8 +31,8 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/aryan-mote/TinyYOLO-Crime-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=TinyYOLO-Crime-Detection&theme=tokyonight&hide_border=true&border_radius=15" />
+  <a href="https://github.com/vi14m/Thermal-Image-Super-Resolution">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Thermal-Image-Super-Resolution&hide_border=true&border_radius=15" />
   </a>
   <a href="https://github.com/aryan-mote/Flood-Detection-SAR">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan-mote&repo=Flood-Detection-SAR&theme=tokyonight&hide_border=true&border_radius=15" />
