@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Thermal-Image-Super-Resolution&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
   <a href="https://github.com/motearyan/Flood_detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Flood-detection&theme=tokyonight&hide_border=true&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=motearyan&repo=Flood_detection&theme=tokyonight&hide_border=true&border_radius=15" />
   </a>
 </p>
   <a href="https://github.com/motearyan/Lip-Reading-for-Speech-to-Text-Conversion">
