@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/motearyan/motearyan/main/assets/image1.png" 
        alt="AI Banner" 
-       style="width:80%; height:auto; max-height:300px; object-fit:contain;" />
+       style="width:100%; height:auto; max-height:300px; object-fit:contain;" />
 </p>
 
 
