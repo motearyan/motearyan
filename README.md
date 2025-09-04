@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  🔗 Explore all my repositories 👉 [here](https://github.com/aryan-mote?tab=repositories).
+  🔗 Explore all my repositories 👉 [here](https://github.com/motearyan?tab=repositories).
 </p>
 
 ---
